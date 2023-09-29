@@ -72,5 +72,9 @@
 ![管理员-交流论坛管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206152108179.jpg)
 
 管理员可以对商品、订单、产地、用户、资讯等进行增删改查，还能查看用户的未支付订单、已支付订单、已退款订单、已发货订单、已完成订单等。具体可以看视频或者截图
+### 获取方式&视频演示
 
+下方扫一下，回复关键词：商城
+
+![gitee](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309291447341.png)
 
